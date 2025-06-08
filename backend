@@ -1,0 +1,2 @@
+cd backend       # الدخول إلى مجلد الباك إند
+npm install      # تثبيت جميع الاعتماديات الموجودة في package.json
