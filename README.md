@@ -40,4 +40,4 @@ Oqdeely Maak is a local delivery app that helps users order products from stores
 1. استنساخ المستودع  
    Clone the repository  
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/salahsd/LocalDeliveryApp
